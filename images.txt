@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
+crpi-xe5ogw7n2phuitwy.cn-beijing.personal.cr.aliyuncs.com/lixiaoyuan/controller:v1.11.2
