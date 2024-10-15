@@ -1,1 +1,1 @@
-registry.k8s.io/nfs-subdir-provisioner:v4.0.2
+k8s.gcr.io/nfs-subdir-provisioner:v4.0.2
