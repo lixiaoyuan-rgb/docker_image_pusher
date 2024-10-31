@@ -1,1 +1,1 @@
-k8s.gcr.io/nfs-subdir-provisioner:v4.0.2
+zabbix/zabbix-server-mysql
