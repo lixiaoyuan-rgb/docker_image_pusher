@@ -1,1 +1,1 @@
- zabbix/zabbix-web-nginx-mysql
+php:8-apache
